@@ -1,6 +1,7 @@
 from exceptions import PaymentException
 import uuid
 
+
 class Payment:
 
     def __init__(self, amount, actor, target, note):

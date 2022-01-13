@@ -25,7 +25,6 @@ Implement a program that will feature users, credit cards, and payment feeds.
 """
 
 import unittest
-
 from exceptions import UsernameException, PaymentException, CreditCardException
 from logger_base import logger
 from user import User
@@ -38,7 +37,6 @@ class MiniVenmo:
         user.add_to_balance(balance)
         user.add_credit_card(credit_card_number)
         return user
-        # pass
 
     def render_feed(self, feed):
         # Bobby paid Carol $5.00 for Coffee
@@ -49,7 +47,6 @@ class MiniVenmo:
             logger.error(f'feed is empty')
         for f in feed:
             print(f)
-        # pass
 
     @classmethod
     def run(cls):

@@ -1,4 +1,4 @@
-from exceptions import UsernameException
+from exceptions import UsernameException, CreditCardException
 import re
 from payment import Payment
 from logger_base import logger
