@@ -20,3 +20,28 @@
 02:37:59 AM: INFO [user.py:71] -- Bobby Pay with Balance to Carol $5.0 for Coffee
 02:37:59 AM: INFO [user.py:52] -- Carol Pay with Card to Bobby $15.0 for Lunch
 02:37:59 AM: INFO [user.py:30] Bobby added new friend call Carol
+02:39:39 AM: INFO [user.py:71] -- Bobby Pay with Balance to Carol $5.0 for Coffee
+02:39:39 AM: INFO [main.py:61] Bobby paid Carol $5.00 for "Coffee"
+02:39:39 AM: INFO [user.py:52] -- Carol Pay with Card to Bobby $15.0 for Lunch
+02:39:39 AM: INFO [main.py:64] Carol paid Bobby $15.00 for "Lunch"
+02:39:39 AM: INFO [user.py:30] Bobby added new friend call Carol
+02:40:22 AM: INFO [user.py:71] -- Bobby Pay with Balance to Carol $5.0 for Coffee
+02:40:22 AM: INFO [main.py:61] Bobby paid Carol $5.00 for "Coffee"
+02:40:22 AM: INFO [user.py:52] -- Carol Pay with Card to Bobby $15.0 for Lunch
+02:40:22 AM: INFO [main.py:64] Carol paid Bobby $15.00 for "Lunch"
+02:40:22 AM: INFO [user.py:30] Bobby added new friend call Carol
+02:41:15 AM: INFO [user.py:71] -- Bobby Pay with Balance to Carol $5.0 for Coffee
+02:41:15 AM: INFO [main.py:61] Bobby paid Carol $5.00 for "Coffee"
+02:41:15 AM: INFO [user.py:52] -- Carol Pay with Card to Bobby $15.0 for Lunch
+02:41:15 AM: INFO [main.py:64] Carol paid Bobby $15.00 for "Lunch"
+02:41:15 AM: INFO [user.py:30] Bobby added new friend call Carol
+02:41:28 AM: INFO [user.py:71] -- Bobby Pay with Balance to Carol $5.0 for Coffee
+02:41:28 AM: INFO [main.py:61] Bobby paid Carol $5.00 for "Coffee"
+02:41:28 AM: INFO [user.py:52] -- Carol Pay with Card to Bobby $15.0 for Lunch
+02:41:28 AM: INFO [main.py:64] Carol paid Bobby $15.00 for "Lunch"
+02:41:28 AM: INFO [user.py:30] Bobby added new friend call Carol
+02:41:53 AM: INFO [user.py:71] -- Bobby Pay with Balance to Carol $5.0 for Coffee
+02:41:53 AM: INFO [main.py:61] Bobby paid Carol $5.00 for "Coffee"
+02:41:53 AM: INFO [user.py:52] -- Carol Pay with Card to Bobby $15.0 for Lunch
+02:41:53 AM: INFO [main.py:64] Carol paid Bobby $15.00 for "Lunch"
+02:41:53 AM: INFO [user.py:30] Bobby added new friend call Carol

@@ -7,7 +7,7 @@ logger.basicConfig(level=logging.DEBUG,
                    datefmt='%I:%M:%S %p',
                    handlers=[
                        logging.FileHandler('logFile.log'),
-                       logging.StreamHandler()
+                       # logging.StreamHandler()
                    ])
 
 if __name__ == '__main__':

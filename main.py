@@ -67,7 +67,6 @@ class MiniVenmo:
             print(e)
 
         feed = bobby.retrieve_feed()
-        print(f'Feed : {feed}')
         venmo.render_feed(feed)
         #
         bobby.add_friend(carol)

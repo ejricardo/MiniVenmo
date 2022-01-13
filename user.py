@@ -69,7 +69,7 @@ class User:
 
     def pay_with_balance(self, target, amount, note):
         logger.info(f'-- {self.username} Pay with Balance to {target} ${amount} for {note}')
-        print(self.username + ' paid {target} {amount} {note}')
+        # print(self.username + f' paid {target} {amount} {note}')
         payment = Payment(amount, self, target, note)
         return payment
         # pass
