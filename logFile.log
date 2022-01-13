@@ -1,0 +1,14 @@
+02:14:47 AM: ERROR [exceptions.py:7] Username Exception: Error User Name Exception
+02:14:47 AM: ERROR [exceptions.py:14] Payment Exception: Error Payment  Exception
+02:14:47 AM: ERROR [exceptions.py:7] Username Exception: Error User Name Exception
+02:15:23 AM: ERROR [exceptions.py:7] Username Exception: Error User Name Exception
+02:15:23 AM: ERROR [exceptions.py:14] Payment Exception: Error Payment  Exception
+02:15:23 AM: ERROR [exceptions.py:21] Credit Exception: Error Credit Card Exception
+02:21:16 AM: ERROR [exceptions.py:7] Username Exception: Error User Name Exception
+02:21:16 AM: ERROR [exceptions.py:14] Payment Exception: Error Payment  Exception
+02:21:16 AM: ERROR [exceptions.py:21] Credit Exception: Error Credit Card Exception
+02:29:49 AM: INFO [user.py:71] -- Bobby Pay with Balance to Carol $5.0 for Coffee
+02:29:49 AM: INFO [main.py:64] Bobby paid Carol $5.00 for "Coffee"
+02:29:49 AM: INFO [user.py:52] -- Carol Pay with Card to Bobby $15.0 for Lunch
+02:29:49 AM: INFO [main.py:67] Carol paid Bobby $15.00 for "Lunch"
+02:29:49 AM: INFO [user.py:30] Bobby added new friend call Carol
