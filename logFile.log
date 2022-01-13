@@ -12,3 +12,8 @@
 02:29:49 AM: INFO [user.py:52] -- Carol Pay with Card to Bobby $15.0 for Lunch
 02:29:49 AM: INFO [main.py:67] Carol paid Bobby $15.00 for "Lunch"
 02:29:49 AM: INFO [user.py:30] Bobby added new friend call Carol
+02:35:00 AM: INFO [user.py:71] -- Bobby Pay with Balance to Carol $5.0 for Coffee
+02:35:00 AM: INFO [main.py:64] Bobby paid Carol $5.00 for "Coffee"
+02:35:00 AM: INFO [user.py:52] -- Carol Pay with Card to Bobby $15.0 for Lunch
+02:35:00 AM: INFO [main.py:67] Carol paid Bobby $15.00 for "Lunch"
+02:35:00 AM: INFO [user.py:30] Bobby added new friend call Carol
